@@ -1,12 +1,13 @@
-Task 1.1 : Perform churn prediction using artificial neural networks ( use pytorch ).
-            Experiment with  different activation functions, optimizers and try with different hyper parameters to get the best results.
+**Task 1.1: Churn Prediction with Artificial Neural Networks (PyTorch)**  
+Develop a churn prediction model using artificial neural networks implemented in PyTorch. Experiment with various activation functions, optimizers, and hyperparameters to achieve optimal performance.
 
+**Task 1.2: Sentiment Classification on the IMDB Dataset Using BERT or Its Variants**  
+Utilize BERT or another Hugging Face transformer model to perform sentiment classification on the IMDB movie reviews dataset.  
+- Dataset link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews  
+- Complete all necessary data preprocessing steps.
+- Train the selected Hugging Face model using both the Hugging Face Trainer API and a custom PyTorch training loop.
 
-Task 1.2 : Use Bert or any other variant of it ( must be a hugging face model ) to perform classification on the imdb dataset 
-            Link to the dataset : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-            - Perform required data preprocessing
-            - Train the hugging face model both using  the hf trainer api and also using pytorch training 
+You may use GPT or other AI tools to assist with these tasks, provided you fully understand the code you produce.
 
-Use of gpt or any other ai is permitted as long as you guys understand the code.
-
-Note : Both the tasks must be done in jupyter notebooks ( .ipynb files) and the notebook should be very clean and structured !!
+**Note:**  
+Both tasks must be completed in Jupyter notebooks (.ipynb files). Ensure that your notebooks are well-organized, clean, and clearly structured.
